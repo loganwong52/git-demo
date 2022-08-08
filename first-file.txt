@@ -1,2 +1,6 @@
 first line of text
+<<<<<<< HEAD
 develop says no
+=======
+master says yes
+>>>>>>> master
